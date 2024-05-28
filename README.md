@@ -2,13 +2,13 @@
 
 **Systems Analysis and Development student at IFPE.**
 
-## Contact: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviwmgs/)
+**CNPq at researcher.**
 
 ## About me: 
 
 * My favorite language is java
 * Learning chess
+* Favorite game at the moment: Hades
 
 ## Technologies: 
 
