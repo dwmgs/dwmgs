@@ -1,4 +1,4 @@
-# Hi guys 🖐️
+# Hi 🖐️
 
 **Systems Analysis and Development student at IFPE.**
 
@@ -8,7 +8,7 @@
 
 * My favorite language is java
 * Learning chess
-* Favorite game at the moment: Hades
+* Platinum at the moment: Detroit Become Human
 
 ## Technologies: 
 
