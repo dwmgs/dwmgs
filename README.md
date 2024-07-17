@@ -7,8 +7,8 @@
 ## About me: 
 
 * My favorite language is java
-* Learning chess
-* Platinum at the moment: Detroit Become Human
+* Practicing jiu jitsu
+* Platinum at the moment: Nothing 😓
 
 ## Technologies: 
 
