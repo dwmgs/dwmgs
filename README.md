@@ -7,8 +7,8 @@
 ## About me: 
 
 * My favorite language is java
-* Practicing jiu jitsu
-* Platinum at the moment: Nothing 😓
+* Practicing Jiu Jitsu
+* Platinum at the moment: Divinity: Original Sin II
 
 ## Technologies: 
 
