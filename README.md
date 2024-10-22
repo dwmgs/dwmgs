@@ -1,16 +1,16 @@
-# Hi 🖐️
+# Oi 🖐️
 
-**Systems Analysis and Development student at IFPE.**
+**Estudante de Análise e Desenvolvimento de Sistemas no IFPE.**
 
-**CNPq at researcher.**
+**Pesquisador em CNPq.**
 
-## About me: 
+## Sobre Mim: 
 
-* My favorite language is java
-* Practicing Jiu Jitsu
-* Platinum at the moment: Divinity: Original Sin II
+* Minha linguagem favorita é Java.
+* Praticante de Jiu-Jitsu
+* Platinando no momento: Divinity: Original Sin II
 
-## Technologies: 
+## Tecnologias: 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -20,6 +20,6 @@
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## Learning technologies:
+## Aprendendo:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
