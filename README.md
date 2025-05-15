@@ -1,13 +1,4 @@
-# Oi 🖐️
-
 **Estudante de Análise e Desenvolvimento de Sistemas no IFPE.**
-
-
-## Sobre Mim: 
-
-* Minha linguagem favorita é Java.
-* Praticante de Jiu-Jitsu
-* Entusiasta de Xadrez
 
 ## Tecnologias: 
 
@@ -18,8 +9,3 @@
 ![Css](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-## Estudando:
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
